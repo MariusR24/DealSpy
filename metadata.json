@@ -1,0 +1,5 @@
+{
+  "name": "DealSpy",
+  "description": "DealSpy is a web platform that aggregates video game discounts from major digital stores in real-time, providing users with a centralized view of all active offers, a wishlist system with notifications, and price history.",
+  "requestFramePermissions": []
+}
