@@ -1,4 +1,4 @@
-# DealSpy - Agentul Tău pentru Oferte la Jocuri Video 🕵️‍♂️🎮
+# DealSpy - Agentul Tău pentru Oferte la Jocuri Video
 
 DealSpy este o aplicație web modernă care agregă reduceri la jocuri video de pe majoritatea magazinelor digitale globale (Steam, Epic Games, GOG, Humble Bundle, etc.), ajutând utilizatorii să găsească cele mai bune prețuri în timp real.
 
@@ -55,7 +55,7 @@ Acest proiect este configurat pentru a fi desfășurat (deployed) instantaneu pe
 ### Link Live
 După finalizarea pasului de mai sus, Netlify îți va oferi un link public (ex: `https://dealspy-demo.netlify.app`).
 
-## 📁 Structură Proiect
+## Structură Proiect
 
 *   `src/components`: Componente UI reutilizabile (GameCard, Header, Filters, etc.)
 *   `src/services`: Logica de comunicare cu API-urile (gameService.ts)
